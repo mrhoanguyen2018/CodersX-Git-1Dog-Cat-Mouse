@@ -7,3 +7,4 @@ Dog.prototype.eat(cat){
 }
 
 module.exports = Dog;
+//sayhello
