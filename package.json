@@ -1,0 +1,14 @@
+{
+  "name": "git-firstcommits",
+  "version": "1.0.0",
+  "description": "This product just is a demo",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
